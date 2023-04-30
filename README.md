@@ -9,6 +9,8 @@ Main Programs (by order of implementation):
 
 Requirements:
 - Python 3.x
+- Python Turtle
+- Python MatPlotLib
 
 # Installation
 1. Download all files to the same directory
