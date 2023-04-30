@@ -9,3 +9,7 @@ Main Programs (by order of implementation):
 
 Requirements:
 - Python 3.x
+
+# Installation
+1. Download all files to the same directory
+2. Double-click one of the main programs to run
