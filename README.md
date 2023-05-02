@@ -4,7 +4,6 @@ The source code and installation instructions for my Digital Systems Project.
 Main Programs (by order of implementation):
 - LightsOut.py (Playable game)
 - GA.py (Standalone GA Solver)
-- RBGA.py (First Rule-based GA)
 - RBS.py (Final standalone RBS)
 
 Requirements:
